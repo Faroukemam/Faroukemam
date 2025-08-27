@@ -55,10 +55,11 @@
 ---
 
 # 📊 GitHub Stats
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Faroukemam&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Faroukemam&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faroukemam&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+</div>
 ---
 
 ## 🏆 GitHub Trophies
