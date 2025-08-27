@@ -31,7 +31,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-waked-412699219)  
+
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farouk.waked@must.edu.eg)
 
 ---
