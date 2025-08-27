@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Farouk Emam Waked!**  
+# 👋 Hey there, I'm **Farouk Waked!**  
 🚀 **Mechatronics Engineer** | 📍 Teaching Assistant @ Misr University for Science & Technology  
 🤖 Passionate about **Robotics, AI, Embedded Systems, and IoT**  
 💡 Always exploring innovative solutions that merge **hardware with intelligence**.
