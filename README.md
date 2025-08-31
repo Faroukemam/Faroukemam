@@ -64,14 +64,20 @@
 </div>
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Faroukemam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
 ---
 
 ### ✍️ Random Dev Quote
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 ---
 
 ### 🔝 Top Contributed Repo
