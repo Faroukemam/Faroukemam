@@ -72,14 +72,6 @@
 </div>
 ---
 
-### ✍️ Random Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
----
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Faroukemam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
