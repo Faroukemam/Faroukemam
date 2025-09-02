@@ -13,15 +13,6 @@
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python • Dart • C++ • MATLAB  
-**Frameworks:** Flutter • PyTorch • ROS2 • Node-RED  
-**Embedded Systems:** ESP32-S3 • STM32 • Jetson Nano • Orin Nano  
-**Data & AI:** Computer Vision • Machine Learning • Generative AI  
-**Tools:** Git/GitHub • VS Code • SolidWorks • MATLAB • Android Studio  
-
----
-
 ## 🌱 Currently Learning
 - 🤝 **Real-time AI integration** with Flutter & Node-RED  
 - ⚡ **Advanced robotics control & kinematics**  
