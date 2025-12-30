@@ -1,27 +1,30 @@
-#   👋 Hey there, I'm **Farouk Waked!**  
-🚀 **Mechatronics Engineer** | 📍 Teaching Assistant @ Misr University for Science & Technology  
-🤖 Passionate about **Robotics, AI, Embedded Systems, and IoT**  
-💡 Always exploring innovative solutions that merge **hardware with intelligence**.
+# 👋 Yo, I’m **Farouk Waked**
+🚀 **Mechatronics Engineer** | 🎓 Teaching Assistant @ **Misr University for Science & Technology (MUST)**  
+🤖 Into **Robotics, AI, Embedded Systems, and IoT**  
+💡 I build stuff where **hardware + intelligence** actually *ship*.
 
 ---
 
-## 🧩 What I'm Currently Working On
-- 🎓 **MSc Thesis** → Smart Exoskeleton development (Embedded Systems & Control)  
-- 📱 **SignSync App** → Flutter-based mobile app translating sign language to **Egyptian Arabic** in real-time using **AI & Node-RED**  
-- 🔥 Deep-diving into **PyTorch**, **YOLOv8**, and **real-time AI pipelines** for computer vision  
-- 🛠️ Developing advanced **MATLAB FVM/ADI** simulation codes for **heat transfer & robotics** research  
+## 🧩 What I’m Working On Right Now
+- 🎓 **MSc Research** → **Intelligent Adaptive Control of Robotic Manipulators using Reinforcement Learning**  
+  *(Hybrid **Computed Torque Control (CTC) + RL** for an RRR arm — simulation-first, hardware-ready mindset)*  
+- 🦾 **Smart Exoskeleton Track** → Embedded control + sensing (IMU/EMG direction) for rehab-style systems  
+- 📱 **SignSync App** → Flutter mobile app translating sign language to **Egyptian Arabic** in real time  
+  *(AI + **Node-RED** pipeline, CV + deployment workflow)*  
+- 🧠 **Computer Vision Pipeline Grind** → **PyTorch**, **YOLOv8**, real-time inference + optimization  
+- 🧮 **Simulation & Modeling** → Advanced **MATLAB** codes (FVM/ADI heat transfer + robotics tooling)
 
 ---
 
-## 🌱 Currently Learning
-- 🤝 **Real-time AI integration** with Flutter & Node-RED  
-- ⚡ **Advanced robotics control & kinematics**  
-- 🧠 **Deep Learning models** for sign language recognition  
-- ☁️ Exploring **cloud-hosted AI pipelines**  
+## 🌱 Currently Leveling Up
+- ⚡ **Real-time AI** in mobile apps (Flutter + Node-RED + deployment patterns)
+- 🎯 **Advanced robotics control** (kinematics, dynamics, CTC, RL control design)
+- 🧠 **Deep learning** for gesture/sign recognition
+- ☁️ **Cloud/edge AI pipelines** (ONNX-style deployment, scalable inference setups)
 
 ---
 
-# 💻 Tech Toolbox
+## 💻 Tech Toolbox
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -36,5 +39,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
