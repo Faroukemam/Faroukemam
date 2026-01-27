@@ -1,4 +1,4 @@
-# 👋 Yo, I’m **Farouk Waked**
+# 👋 HI, I’m **Farouk Waked**
 🚀 **Mechatronics Engineer** | 🎓 Teaching Assistant @ **Misr University for Science & Technology (MUST)**  
 🤖 Into **Robotics, AI, Embedded Systems, and IoT**  
 💡 I build stuff where **hardware + intelligence** actually *ship*.
