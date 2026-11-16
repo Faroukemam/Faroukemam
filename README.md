@@ -1,45 +1,45 @@
-# 👋 HI, I’m **Farouk Waked**
-🚀 **Mechatronics Engineer** | 🎓 Teaching Assistant @ **Misr University for Science & Technology (MUST)**  
-🤖 Into **Robotics, AI, Embedded Systems, and IoT**  
-💡 I build stuff where **hardware + intelligence** actually *ship*.
+# Farouk Emam Waked
+
+**Mechatronics Engineer | Teaching Assistant at Misr University for Science & Technology (MUST)**
+
+I work at the intersection of **robotics, AI, optimization, embedded systems, and software engineering**. My projects focus on converting complex engineering and academic workflows into practical tools.
+
+- **Current research interests:** AI-assisted path planning and trajectory regeneration for robotic manipulators; kinematics, control, and simulation.
+- **Engineering software:** University scheduling systems, workload optimization, conflict detection, and reporting.
+- **Hands-on interests:** ROS 2, embedded C, computer vision, Flutter, and intelligent robotic systems.
+
+## Selected projects
+
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [UniScha](https://github.com/Faroukemam/UniScha) | University exam operations: staff allocation, room assignment, on-call duties, workload balancing, and Excel workflows. | React, Vite, Node.js, Express, SQLite, Python, OR-Tools CP-SAT |
+| [Final Exam Scheduler (Desktop)](https://github.com/Faroukemam/final-exam-scheduler) | Constraint-based exam timetabling and invigilation scheduling with diagnostics and reports. | Python, OR-Tools CP-SAT, Tkinter, Pandas |
+| [ExamFlow](https://github.com/Faroukemam/FinalExamSchedule) | Exam planning, conflict detection, capacity management, and report exports. | React, Node.js, Express, SQL.js |
+| [SignSync (team project)](https://github.com/Faroukemam/signsync-by-basma) | Accessible communication app for sign-language and Egyptian Arabic workflows. | Flutter, Python, MediaPipe, Node-RED, Firebase |
+| [Embedded Systems Projects](https://github.com/Faroukemam/EmbeddedProjects_ByAMITDiploma) | Obstacle-avoidance robotic vehicle and assistive smart-glove projects. | Embedded C, microcontrollers, sensors |
+| [DEPI AI & Python Lab](https://github.com/Faroukemam/depi_projects) | AI, Python, and data-analysis exercises and experiments. | Python, Jupyter, NumPy, Pandas, scikit-learn |
+
+## Research and engineering focus
+
+- **Robotics:** forward/inverse kinematics, Jacobians, robot motion planning, RRT/RRT*, trajectory generation and regeneration.
+- **Control and learning:** robotic manipulator control, computed-torque control, reinforcement-learning concepts, simulation with MATLAB and MuJoCo.
+- **Optimization:** constraint programming (CP-SAT), resource allocation, schedule feasibility, workload fairness.
+- **Software engineering:** full-stack applications, APIs, relational data, automation, data validation, and Excel-based reporting.
+
+## Technical toolkit
+
+**Languages:** Python · C · C++ · JavaScript · Dart · SQL
+
+**Robotics and embedded:** ROS 2 · MATLAB/Simulink · MuJoCo · Arduino · microcontrollers
+
+**AI and data:** PyTorch · OpenCV/MediaPipe · scikit-learn · NumPy · Pandas
+
+**Apps and tools:** React · Node.js/Express · Flutter · SQLite · MySQL · Git/GitHub · Linux
+
+## Contact
+
+- **Email:** [farouk.waked@must.edu.eg](mailto:farouk.waked@must.edu.eg)
+- **GitHub:** [github.com/Faroukemam](https://github.com/Faroukemam)
 
 ---
-
-## 🧩 What I’m Working On Right Now
-- 🎓 **MSc Research** → **Intelligent Adaptive Control of Robotic Manipulators using Reinforcement Learning**  
-  *(Hybrid **Computed Torque Control (CTC) + RL** for an RRR arm — simulation-first, hardware-ready mindset)*  
-- 🦾 **Smart Exoskeleton Track** → Embedded control + sensing (IMU/EMG direction) for rehab-style systems  
-- 📱 **SignSync App** → Flutter mobile app translating sign language to **Egyptian Arabic** in real time  
-  *(AI + **Node-RED** pipeline, CV + deployment workflow)*  
-- 🧠 **Computer Vision Pipeline Grind** → **PyTorch**, **YOLOv8**, real-time inference + optimization  
-- 🧮 **Simulation & Modeling** → Advanced **MATLAB** codes (FVM/ADI heat transfer + robotics tooling)
-
----
-
-## 🌱 Currently Leveling Up
-- ⚡ **Real-time AI** in mobile apps (Flutter + Node-RED + deployment patterns)
-- 🎯 **Advanced robotics control** (kinematics, dynamics, CTC, RL control design)
-- 🧠 **Deep learning** for gesture/sign recognition
-- ☁️ **Cloud/edge AI pipelines** (ONNX-style deployment, scalable inference setups)
-
----
-
-## 💻 Tech Toolbox
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+*Selected repository descriptions reflect the documented project scope; research topics are ongoing areas of work.*
